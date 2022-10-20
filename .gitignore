@@ -2,3 +2,4 @@ testing/
 detector/.idea/
 detector/out/
 detector/detector.iml
+.DS_Store
